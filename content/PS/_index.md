@@ -2,9 +2,14 @@
 title: 'Personal Statement Guide'
 ---
 
+This page is aimed at applicants writing personal statements for computer science at Cambridge, Oxford, and Imperial. Though, much of this advice also extends to other universities and STEM subjects. 
+
+There are many online guides which offer guidance on writing personal statements. While these resources can help you understand what admissions officers are looking for, they are often too generic or high-level to turn into concrete steps. This guide aims to build on this information by providing actional advice on writing successful personal statements, along with practical examples. 
+
+
 <!-- Many online guides offer general advice on writing personal statements. While these can be helpful for understanding what admission officers are typically looking for, I often find the guidance too generic, or overly focused on what not to include (instead of talking about what you should include). This guide aims to extend the information found in these articles by providing actionable advice with practical examples. -->
 
-Many online guides offer general tips for writing personal statements. While these resources can be useful for understanding what admissions officers are typically look for, the advice is often too generic or overly focused on what to avoid, instead of talking about what you should do instead. This guide aims to extend the information found in these articles by providing actionable advice with practical examples.
+<!-- Many online guides offer general tips for writing personal statements. While these resources can be useful for understanding what admissions officers are typically look for, the advice is often too generic or overly focused on what to avoid, instead of talking about what you should do instead. This guide aims to extend the information found in these articles by providing actionable advice with practical examples. -->
 
 <!-- go a step further by offering concrete, actionable advice supported by practical examples.  -->
 
@@ -16,34 +21,17 @@ My own personal statement (which successfully gained me admission to computer sc
 
 This guide is based purely on my own experience, having written my own successful personal statement, and having reviewed dozens of personal statements from Cambridge applicants. This is my subjective view on what makes a personal statement informative and interesting.
 
-I will focus primarily on computer science personal statements for Cambridge, Oxford, and Imperial. However, much of this advice transfers to other courses and universities. 
-
 ## Overview 
 
 In my opinion, the purpose of a personal statement is to demonstrate three qualities: 
-- **Passion:** Conveying your genuine passion for the course, and showing that you are eager to explore the subject outside the confines of your school curriculum. 
-- **Dedication:** Highlighting difficult challenges and independent learning that you have pursued out of personal motivation. 
-- **Suitability:** Demonstrating that you are well-suited to studying the subject at university, both through your technical aptitude and by engaging with unfamiliar topics, thinking critically, and applying your knowledge in new contexts.
+- **Passion:** To convey your genuine passion for the course, showing that you are eager to explore the subject outside the confines of your school curriculum. 
+- **Dedication:** To highlight difficult challenges and independent learning that you have pursued out of personal motivation. 
+- **Suitability:** To demonstrate that you are well-suited to studying the subject at university, both through your technical aptitude and by engaging with unfamiliar topics, thinking critically, and applying your knowledge in new contexts.
 
-I believe a successful personal statement is one which provides clear evidence for these qualities, portraying this information in an interesting and engaging way. 
+I believe a successful personal statement is one which provides clear evidence for these qualities, whilst portraying this information in an interesting and engaging way. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This guide covers what sorts of projects and achievements you might wish to include, and how to write about them in a way which best conveys your passion, dedication, and suitability. These topics are split into the following three sections: 
-- [What sorts of projects and achievements you should include](/ps/#what-to-include)
+This guide covers what sorts of projects and achievements you should try to include, and how to talk about them in a way which best conveys your passion, dedication, and suitability. These topics are split into the following three sections: 
+- [What projects and achievements to include](/ps/#what-to-include)
 - [How to write about your projects and achievements](/ps/#how-to-write-your-ps)
 - [How to approach the three PS questions](/ps/#the-three-ps-questions)
 
@@ -62,7 +50,7 @@ I will assume you have some previously researched PS advice (such as by reading 
 
 **This guide aims to extend the information found in these articles by providing actionable advice with practical examples.** -->
 
-# Overview 
+<!-- # Overview 
 
 Many online guides offer general advice on writing personal statements. While these can be helpful for understanding what admission officers are typically looking for, I often find the guidance too generic, or overly focused on what _not_ to include (instead of talking about what you should include). This guide aims to extend the information found in these articles by providing actionable advice with practical examples.
 
@@ -75,6 +63,7 @@ This guide covers what sorts of projects and achievements you might wish to incl
 - [What sorts of projects and achievements you should include](/ps/#what-to-include)
 - [How to write about your projects and achievements](/ps/#how-to-write-your-ps)
 - [How to approach the three PS questions](/ps/#the-three-ps-questions)
+ -->
 
 # What to Include 
 
@@ -89,16 +78,34 @@ These are typically challenges you have taken on your own accord, outside of the
 
 Projects are incredibly important, as they are the best and easiest way to demonstrate your passion and dedication for computer science. It is much more effective to show practical examples of how you have engaged and delved into your subject, compared to simply writing about how interested you are in computer science. 
 
-### How to Find Projects to Complete 
+### Finding Personal Statement Projects 
+
+I often get asked "what sorts of projects impress admissions officers" and "what sorts of projects do successful applicants include". My answer is that there is no checklist of "good" projects to do, in fact the projects you include don't really matter that much!
+
+What matters much more is that you include projects that you are genuinly passionate about, which have challenged you in some way, and that you have learnt something from (to demonstrate your passion, dedication, and suitability). 
+
+Finding such projects can be difficult as the field of computer science is huge. So I suggest trying to find a specific hobby, interest, or problem and turning it into a project. This gives you an immediate personal connection with the project -- which helps your personality and enthusiam come across in your personal statement and interviews. 
+
+It doesn't matter if your project is small or doesn't sound very impressive, if you start with an idea that is interesting and meaningful to you, you can expand out from there and see where you end up! Some of the most valuable projects are those where you don’t begin with a specific solution in mind. Instead, you dive into a task and, as challenges arise, you’re pushed to learn and adapt in order to overcome them.
+
+If you are just starting out exploring the field of computer science, it can be quite duanting knowing where to begin. [This page](/ps/project_inspiration) offers an overview of various topics within computer science, along with practical project ideas to help you get started.
+
+Here are some examples, which turn a personal interest or problem into a suitable personal statement project: 
+
+<!-- In my opinion, the projects you do don't actually matter that much, what matters more is that they demonstrate your passion, dedication, and sutability to study the subject at university.  
+
+
+It can be difficult to find suitable projects as the field of computer science is huge 
 
 The problem with finding projects is that the field of computer science is huge. It is often difficult for people to approach unfamiliar topics and discover what interests them. Even if you do find a topic that interests you, turning this into a stand-alone project that you can talk about on your PS is difficult. 
 
 **[This page](/ps/project_inspiration) offers an overview of various topics within computer science, along with inspiration and practical project ideas to help you get started.**
 
-I highly recommend trying to find projects that genuinely interest you, rather than projects that appear more "impressive". Projects you have a personal connection with allow you to convey your passion for the subject much more deeply, and often lead to more interesting conversations during interviews.
+I highly recommend trying to find projects that genuinely interest you, rather than projects that appear more "impressive". Projects you have a personal connection with allow you to convey your passion for the subject much more deeply, and often lead to more interesting conversations during interviews. -->
 
-The best way to find these sorts of projects is to solve a personal problem. The problem can be small and insignificant, but it does not matter as long as it is personal! 
-- Do you and your friends play online role-playing games and want to quickly generate and share character profile sheets? Try creating a small website that lets you do this! 
+<!-- The best way to find these sorts of projects is to solve a personal problem. The problem can be small and insignificant, but it does not matter as long as it is personal!  -->
+- Do you and your friends play online role-playing games and want to quickly generate and share character profile sheets? Try creating a small website that lets you do this!
+    - Hello 
 - Are you fed up with switching off lights in your room when you leave the room? Set up a camera which detects movements, and hook it up to a smart plug to turn off the lights when you leave the room.
 - Are you interested by how fractals work? Try researching the mathematics behind fractals, and designing your own formulas to develop new fractals. 
 - Do you and your classmates find it annoying to find questions on specific topics in past exam papers? Try automatically extracting keywords from questions in your past papers, which can be looked up using a search box. 

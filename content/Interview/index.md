@@ -2,11 +2,16 @@
 title: 'Interview Advice'
 ---
 
-Coming soon!
+This page is aimed at applicants preparing for computer science interviews at Cambridge, Oxford, and Imperial. Below are two full mock interviews that I have created, with accompanying hint and answer sheets. The advice in this page is relevant for most STEM subjects, however the interview questions are specifically targeted towards computer science applicants. 
 
-<!-- This section includes two mock interviews I created, each with accompanying question sheets, hint sheets, and answer sheets. While the questions are not taken from actual interviews, they closely resemble the types of questions that are likely to appear.
+The first section 
+
+## Interview Questions 
 
 **Before looking at these interviews, please read the rest of this page to ensure you can make the most of the questions provided.**
+
+This section includes two mock interviews I created, each with accompanying question sheets, hint sheets, and answer sheets. While the questions are not taken from actual interviews, they closely resemble the types of questions that are likely to appear.
+
 
 These interviews are intentionally challenging, and you're not expected to complete all the questions within the allotted time. The focus is less on how many questions you answer and more on how you approach and respond to unfamiliar problems.
 
@@ -54,4 +59,4 @@ Here are my recommendations for how to use these questions effectively:
 # Contact Me 
 If you find any mistakes or ambiguities in either the questions, hints, or answers, please let me know at `@theduckmaster.` on Discord, or at dylan.moss2001@gmail.com by email. 
 
-If you have any further questions, or would just like to let me know that you found these resources useful, please do not hesitate to contact me!  -->
+If you have any further questions, or would just like to let me know that you found these resources useful, please do not hesitate to contact me! 

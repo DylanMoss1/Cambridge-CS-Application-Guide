@@ -2,7 +2,7 @@
 title: 'How to Choose a College'
 ---
 
-This section is aimed at those choosing a Cambridge college for computer science (but much of this advice extends to Oxford and other courses). 
+This page is aimed at applicants choosing which Cambridge college to apply to. While this advice is focused on Cambridge computer science applicants, it is also relevant to those applying to Oxford and other courses.
 
 To learn more about what colleges are, and how the Cambridge college system works, please see the [Application FAQs](../application). 
 
