@@ -1,5 +1,6 @@
 ---
 title: 'Interview Advice'
+slug: interview-advice
 ---
 
 This page is aimed at applicants preparing for computer science interviews at Cambridge, Oxford, and Imperial. Below are two full mock interviews that I have created, with accompanying hint and answer sheets. The advice in this page is relevant for most STEM subjects, however the interview questions are specifically targeted towards computer science applicants.
