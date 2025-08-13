@@ -32,7 +32,7 @@ The following is a list of university experience factors to consider when choosi
     - In second year onwards, almost all compsci lectures are held in the Computer Lab.
     - If you live close to the city centre, it is only a 10-15 minute cycle to the Computer Lab. 
 - **How far / close are you to the shops:**
-    - Look on Google maps to see where the nearest shops are (most central colleges shop at the [Sainsburies on Sidney Street](https://maps.app.goo.gl/pB5U2AUKHq7ixYbg8)). 
+    - Look on Google maps to see where the nearest shops are (most central colleges shop at the [Sainsbury's on Sidney Street](https://maps.app.goo.gl/pB5U2AUKHq7ixYbg8)). 
 - **How touristy is your college?**
     - Some colleges (e.g. King’s, Trinity, St Johns) have grand, impressive architecture. 
     - However, these colleges can get a bit busy during Easter / summer, when they open up the grounds to tourists.
@@ -48,15 +48,15 @@ The following is a list of university experience factors to consider when choosi
     - Is there a good cafeteria (aka buttery)? 
     - Is there also an on-site cafe? 
     - Is there a good selection of vegetarian / vegan / halal / etc. food? 
-    - Are formals good? (aka fancy dinners you may go to ~1–3 times a term).
+    - Are formals good? (aka fancy dinners you may go to ~1-3 times a term).
 - **How many people take your course?**
     - These [statistics](https://www.undergraduate.study.cam.ac.uk/apply/statistics) show how many people historically take each course at each college. 
     - Some people prefer tight-knit colleges with less coursemates, whereas others prefer colleges with more coursemates to interact with.
 - **The college architecture / environment**
     - Some people prefer older colleges with impressive architecture (e.g. King’s, St John’s, Trinity).
-    - Others prefer more green colleges (such as Fitzwilliam and Clare, which both contain nice garden areas), or more open colleges (such as Churchill and Homerton). 
+    - Others prefer more green colleges (such as Fitzwilliam), or more open colleges (such as Churchill and Homerton). 
     - Some colleges contain interesting landmarks (such as King’s College Chapel and Queens’ mathematical bridge).
-    - For some people the architecture / environment doesn't make a large difference, it is up to you to decide. 
+    - For some people the architecture / environment doesn't make a large difference, its up to you to decide. 
 - **College accommodation**
     - College age 
         - Older colleges tend to have bigger rooms but older infrastructure (it might be colder, and things may break more often).
@@ -87,12 +87,12 @@ The following is a list of university experience factors to consider when choosi
     - Main / Off-site 
         - Most colleges do not offer all three years on the main site.
         - Colleges usually own off-site accommodation (typically with its own community, common rooms, etc.). 
-        - How far are the off-site accomodations from the main site? 
+        - How far are the off-site accommodations from the main site? 
         - Some people prefer off-site accommodations due to their more modern rooms and tight-knit community. However, you may have to travel back to the college for events, cafeteria, etc. 
 - **Events**
     - Formals 
         - Formals are black tie 3-course dinners run by colleges (usually at a highly subsidised cost). 
-        - How regularly are formals held (colleges typically run between 1–7 formals a week, but you will usually only attend 1–3 formals a term). 
+        - How regularly are formals held (colleges typically run between 1-7 formals a week, but you will usually only attend 1-3 formals a term). 
         - Does your college host themed formals (e.g. Christmas / Halloween formals). 
         - How many guests can you invite to formals, can you invite non-Cambridge guests?
         - What room are formals held in (if its an old hall, this can add to the experience).
@@ -100,14 +100,13 @@ The following is a list of university experience factors to consider when choosi
     - Events might include [May Balls](https://en.wikipedia.org/wiki/May_Ball_in_Cambridge), bops (college parties), garden parties, and coffee & cake mornings.
 - **Sports**
     - What sports facilities are available (e.g. badminton courts, squash courts, rowing teams, etc.).
-    - Does your college have active societies for your favourite sports? 
-    - If not then it is likely a university-wide society exists for this sport instead.
+    - Does your college have active societies for your favourite sports? (If not then it is likely a university-wide society exists for this sport instead).
 - **Facilities**
     - Is there a nice (cheap) college bar?
     - What is the JCR (junior common room) like? This is a socialisation area for undergraduates, which may have a Wii / games console, board games, computers / monitors, bean bags, and work areas.
     - Does the bar / JCR contain pool tables, table tennis tables, darts, etc. (and are they free)? 
     - What is the library like? Does it have a nice atmosphere, how late/early is it open, can you walk in and get a space at any time or do you need to book in advance? 
-    - Can you book college rooms to run your own activies? 
+    - Can you book college rooms to run your own activities? 
 - **Pastoral Support**
     - Do you have any special pastoral needs? Does the college have any specific resources to help students (most colleges have a pastoral officer)?
 
@@ -127,7 +126,7 @@ The following is a list of university experience factors to consider when choosi
 
 ## Teaching Experience: Supervisions 
 
-Colleges (or more specifically, Directors of Studies at colleges) are responsible for organising your supervisions: small 2/3 person teaching groups for each topic -- you'll typically have around 15 supervisors each year. 
+Colleges (or more specifically, Directors of Studies at colleges) are responsible for organising your supervisions: small 2/3 person teaching groups for each topic -- you'll typically have around 10-15 supervisors each year. 
 
 It's difficult to compare the quality of supervisions across colleges, as it can vary greatly by supervisor. That said, most supervisors are quite good -- many are PhD students or subject-matter experts who are genuinly passionate about sharing their knowledge. If you are looking for more specific insights, the best advice I can give is to reach out to students studying your subject at that college directly (such as via LinkedIn) to see what their overall supervision experience was like.
 
@@ -147,10 +146,10 @@ This due to Cambridge's [pooling](https://www.undergraduate.study.cam.ac.uk/file
 
 The general idea is that if you’re rejected by the college you originally applied to, another college may still offer you a place if they consider you a stronger candidate than those who applied directly to them. Colleges would prefer to admit a stronger student who originally applied to another college, than a weaker student that directly applied to their college. Director of Studies for each college (who decide who receives offers) meet during the admissions process to make sure this selection is as fair as possible.  
 
-The most common form of pooling is known as "Winter pooling", which occurs after you have completed interviews at the college you applied to. If a college considers you a strong candidate, but has no more places to give you an offer, they would place you in the Winter pool. Other colleges can look in the pool, and fish applicants out of the pool if they prefer them to applicants who applied directly to them. It is not uncommon for undersubscribed colleges to give most (if not all) of their offers to candidates from the pool! 
+The most common form of pooling is known as "Winter pooling", which occurs after you have completed interviews at the college you applied to. If a college considers you a strong candidate, but has no more places to give you an offer, they would place you in the Winter pool. Other colleges can look in the pool, and fish applicants out of the pool if they prefer them to applicants who applied directly to them. It is not uncommon for under-subscribed colleges to give most (if not all) of their offers to candidates from the pool! 
 
 The less common type of pooling is known as "Summer pooling", which happens if you don’t meet the academic conditions of your offer -- for example, if you fall short of the required A-level grades. 
-Even if you don't meet these requirements, your original college may still accept you. However, if they don't, then another undersubscribed college may offer you a place instead.
+Even if you don't meet these requirements, your original college may still accept you. However, if they don't, then another under-subscribed college may offer you a place instead.
 
 If you are rejected before the interview stage then unfortunately you are not eligible for pooling: there is no way to be interviewed by a college other than the one you applied to. 
 
@@ -167,17 +166,17 @@ Applying to a college with a high admissions rate (higher ratio of "offers" to "
 
 Despite these factors, it can still be useful to look at which colleges tend to have higher admission rates. Cambridge's application systems doesn't work perfectly, and so applying to less competitive colleges can increase your chances of receiving an offer. Just keep in mind that these statistics don’t always tell the full story. While admission statistics can be useful, I would recommend not using them as the main driving force in your decision. 
 
-Lets look at the application statistics for computer science in 2024: 
+Lets look at the application statistics for computer science in 2024 (this image is from the old website, which has a different UI to the current page):
 
 ![Application Statistics Image](images/application_statistics_2024.png#center)
 
-There are some interesting trends in this figure worth exploring. Firstly, Churchill college has the largest number of applications by a significant margin. This is due to several factors: it is the closest college to the Computer Lab which accepts a large number of students, and it used to have a reputation as being the "computer science" college, having historically admitted over 20 computer science students per year. 
+There are some interesting trends in this figure worth discussing. Firstly, Churchill college has the largest number of applications by a significant margin. This is due to several factors: it is the closest college to the Computer Lab which accepts a large number of students, and it used to have a reputation as being the "computer science" college (having historically admitted over 20 computer science students per year). 
 
 Furthermore, there are a collection of colleges known as "Dudebase": colleges with Dr John Fawcett as their Director of Studies. There are about 8 colleges which fall into this category -- they form a cluster which share supervisors and also run events such as student presentations. Churchill college is considered the "main" Dudebase college, and strong candidates who are rejected by Churchill are often pooled into other Dudebase colleges. 
 
 When applying to your college, it is worth checking your Director of Studies to see if you fall into Dudebase. Many Dudebase supervisions are taken by Dr John Fawcett. He is known as a very good supervisor, but there is always a small risk of not getting on with your supervisor (which can be a problem if your supervisor is your DoS -- who is the person you would normally talk to about these problems).
 
-Another college to be aware of is Trinity. On the statistics it doesn't appear like Trinity is particularly unusual, however in practice Trinity is a highly competitive college to get into. Unless you have competed nationally / internationally for mathematics or computer science, you will likely struggle getting in. But if you are at this level, it would be a great opportunity to collaborate with like-minded peers. 
+Another college to be aware of is Trinity. On the statistics it doesn't appear like Trinity is particularly unusual, however in practice Trinity is a highly competitive college to get into. Unless you have competed nationally / internationally for mathematics or computer science, you will likely struggle to get in. But if you are at this level, it would be a great opportunity to collaborate with like-minded peers. 
 
 Trinity, along with Peterhouse, ask applicants to complete an additional assessment known as the [CSAT](https://openclimb.io/csat/). This is assigned after you are invited to interview, and considered alongside the rest of your application. 
 
@@ -185,9 +184,9 @@ Finally, the statistics show that colleges with higher admission rates tend to a
 
 ### Open Applications 
 
-Open applications mean that you don’t pick any specific college to apply to, you are instead allocated to a college at semi-random. The college you are assigned to is generally one with less applicants compared to available places, in order to spread out the applications. 
+Open applications mean that you don’t pick any specific college to apply to, and are instead allocated to a college at semi-random. The college you are assigned to is generally one with less applicants compared to available places, in order to spread out the applications. 
 
-As mentioned before, being assigned to a less-competetive college can improve your chances of admission, but the pooling system mostly evens this out. I would personally recommend applying directly to a college that appeals to you. Since you’ll be spending three years at university, it's worth choosing a college that suits you well, as this can significantly affect your overall university experience.
+As mentioned before, being assigned to a less-competitive college can improve your chances of admission, but the pooling system mostly evens this out. I would personally recommend applying directly to a college that appeals to you. Since you’ll be spending three years at university, it's worth choosing a college that suits you well, as this can significantly affect your overall university experience.
 
 
 ## Narrowing Down Your Choices
@@ -231,14 +230,11 @@ Don’t worry if you don’t get a chance to go to an open day -- I chose my col
 
 ### Open Day Planning 
 
-You can find the next Cambridge open days on their [website](https://www.undergraduate.study.cam.ac.uk/events/cambridge-open-days) -- make sure to book your place! There are many talks that take place on these days, so try to find all of the talks that are most relevant to you and incorporate them into your visit. 
+You can find the next Cambridge open days on their [website](https://www.undergraduate.study.cam.ac.uk/events/cambridge-open-days) -- make sure to book your place! There are many talks that take place on the open day, so try to find all of the talks that are most relevant to you and incorporate them into your visit. 
 
 I highly recommend planning out your route in advance. It can take a while to walk between colleges and departments which are far away, so try to visit nearby colleges at the same time. 
 
 ## Resources
 
 This [document](https://docs.google.com/document/d/1r68vXDcPepiu_7Ac1PQ2V-FmVyXol7Da_yPfOdm3RW0/edit?tab=t.0) was created as a collaboration between Cambridge computer science students. It contains information about people’s experience studying computer science at different colleges, as well as: interview vibes, supervision quality, and community.
-
-
-
 
